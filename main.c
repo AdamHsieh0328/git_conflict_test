@@ -5,5 +5,6 @@ int main(){
 	printf("hi i modify the main.c ~~ in computer A");
 	printf("Hello world in computer B");
 	printf("Add line in computer B");
+	printf("Add line in computer A");
 	return 0;
 }
